@@ -6,6 +6,11 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;HTML+%7C+CSS+%7C+Three.js+Lover;Let's+build+cool+stuff+together!" alt="Typing SVG" />
+</p>
+
+
   # 💫 About Me:
 Just a young man whose hobby is writing code & chasing dreams ✨<br>Loyalty to become Frontend and Ui/Ux to make yourself better in the future.<br><br>📌 Favorite stack: HTML, CSS, JavaScript (still going...)<br>🧠 Code by logic, design by soul  <br>☕ Coffee, commitment, sleep<br>🌙 Dark mode adherent | Life in brackets {}<br>🔥Still learning, but my enthusiasm is not half-hearted<br>🤘😎Debug while listening to Dj songs, the best combo.
 
