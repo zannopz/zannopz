@@ -86,8 +86,11 @@ Just a young man whose hobby is writing code & chasing dreams ✨<br>Loyalty to 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Zann_Opz&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center">
+<a href="https://github.com/piyushsuthar/github-readme-quotes">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Ngoding%20Dulu,%20Jagonya%20Belakangan&author=ZannOpz&border=true&borderColor=00ff00" alt="Readme Quotes" />
+</a>
+</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Zann_Opz&icon=0&color=0)](https://visitcount.itsvg.in)
