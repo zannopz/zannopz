@@ -96,3 +96,6 @@ Just a young man whose hobby is writing code & chasing dreams ✨<br>Loyalty to 
 [![](https://visitcount.itsvg.in/api?id=Zann_Opz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=00F5FF&vCenter=true&width=435&lines=👾+Welcome+to+my+Zann+Food...;⚡+I'm+ZannOpz+the+Code+Website.;🦾+Cyberpunk+Dev+%7C+Anime+Fan+%7C+Night+Coder" alt="Typing SVG" />
+</h1>
