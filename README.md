@@ -94,3 +94,5 @@ Just a young man whose hobby is writing code & chasing dreams ✨<br>Loyalty to 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Zann_Opz&icon=0&color=0)](https://visitcount.itsvg.in)
+
+[![](https://camo.githubusercontent.com/7fe30781b5d4a4151398e2dca883be101ca4b8ea2c095ca9fb893be24b3c43e0/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d686f616e677472616e30343130267468656d653d616c676f6c69612672616e6b3d2d432c2d42266d617267696e2d773d33266e6f2d6672616d653d74727565)
