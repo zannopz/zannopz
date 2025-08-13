@@ -11,7 +11,7 @@
 </p>
 
 <img src="Image/kyubey.gif" height="40" />
-  # 💫 About Me:
+💫 About Me:
 Just a young man whose hobby is writing code & chasing dreams ✨<br>Loyalty to become Frontend and Ui/Ux to make yourself better in the future.<br><br>📌 Favorite stack: HTML, CSS, JavaScript (still going...)<br>🧠 Code by logic, design by soul  <br>☕ Coffee, commitment, sleep<br>🌙 Dark mode adherent | Life in brackets {}<br>🔥Still learning, but my enthusiasm is not half-hearted<br>🤘😎Debug while listening to Dj songs, the best combo.
 
 
