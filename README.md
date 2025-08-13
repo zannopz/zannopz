@@ -76,7 +76,9 @@ Just a young man whose hobby is writing code & chasing dreams ✨<br>Loyalty to 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 
-![My GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=zannopz&theme=fuji&pixelate_avatar=false)
+![My GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=zannopz&theme=fuji&pixelate_avatar=false
+[![My GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=zannopz&theme=rainbow)](https://github.com/zannopz)
+
 
 <a href="https://www.credential.net/02b3d274-2d8d-44d7-b23d-dd7dd84393be" title="Certified Prefect Associate"><img src="Image/certi.png" alt="Certified Prefect Associate badge" width="10%" height="" /></a>
 
