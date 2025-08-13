@@ -51,7 +51,9 @@ Just a young man whose hobby is writing code & chasing dreams ✨<br>Loyalty to 
 </div>
 
 # 📊 GitHub Stats:
-!<a href="https://github-readme-stats.vercel.app">
+!<img src ="Image/line2.gif" align ="right">
+    <br>
+<a href="https://github-readme-stats.vercel.app">
             <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=zannopz&count_private=true&theme=neon&show_icons=true\&show=reviews,prs_merged,prs_merged_percentage\&rank_icon=github&hide_border=false">
         </a><br/>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zannopz&theme=neon-dark&locale=id)](https://git.io/streak-stats)
@@ -73,6 +75,4 @@ Just a young man whose hobby is writing code & chasing dreams ✨<br>Loyalty to 
 
 ![My GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=zannopz&theme=crt_avatar=false)
 
-<img src ="Image/line2.gif" align ="right">
-    <br>
     
