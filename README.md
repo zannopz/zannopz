@@ -75,6 +75,7 @@ Just a young man whose hobby is writing code & chasing dreams ✨<br>Loyalty to 
     </picture>
   </a>
 </p>
+<a href="https://www.credential.net/02b3d274-2d8d-44d7-b23d-dd7dd84393be" title="Certified Prefect Associate"><img src="Image/certi.png" alt="Certified Prefect Associate badge" width="10%" height="" /></a>
 
 <div align="center">
 <a href="https://github.com/piyushsuthar/github-readme-quotes">
@@ -85,8 +86,3 @@ Just a young man whose hobby is writing code & chasing dreams ✨<br>Loyalty to 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 
 ![](https://pixel-profile.vercel.app/api/github-stats?username=zannopz&theme=journey&pixelate_avatar=false)
-
-<a href="https://www.credential.net/02b3d274-2d8d-44d7-b23d-dd7dd84393be" title="Certified Prefect Associate"><img src="Image/certi.png" alt="Certified Prefect Associate badge" width="10%" height="" /></a>
-
-
-
