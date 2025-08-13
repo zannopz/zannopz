@@ -73,7 +73,8 @@ Just a young man whose hobby is writing code & chasing dreams ✨<br>Loyalty to 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Ngoding%20Dulu,%20Jagonya%20Belakangan&author=ZannOpz&border=true&borderColor=00ff00" alt="Readme Quotes" />
 </a>
 </div>
-
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
 ---
 [![](https://visitcount.itsvg.in/api?id=zannopz&icon=0&color=0)](https://visitcount.itsvg.in)
 
