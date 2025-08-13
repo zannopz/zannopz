@@ -75,8 +75,6 @@ Just a young man whose hobby is writing code & chasing dreams ✨<br>Loyalty to 
 </div>
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="25" width="100%">
----
-[![](https://visitcount.itsvg.in/api?id=zannopz&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ![My GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=zannopz&theme=crt_avatar=false)
 
