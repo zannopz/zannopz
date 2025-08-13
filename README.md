@@ -73,6 +73,6 @@ Just a young man whose hobby is writing code & chasing dreams ✨<br>Loyalty to 
 
 ![My GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=zannopz&theme=crt_avatar=false)
 
-<img src ="image/line2.gif" align ="right">
+<img src ="Image/line2.gif" align ="right">
     <br>
     
