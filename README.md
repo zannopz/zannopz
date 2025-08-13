@@ -37,6 +37,9 @@ Just a young man whose hobby is writing code & chasing dreams ✨<br>Loyalty to 
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abozanona/abozanona/output/pacman-contribution-graph.svg">
 </picture>
 
+## <div align="center" color="White"> **Visit Counter** <img src="https://i.giphy.com/BFzIOcMuI1dRUURqyY.webp" alt="xiao" height="55" width="55"></div>
+
+<p align="center"> <a href="https://gitlab.com/NeiKos496"><img align="center" width=400 src=https://count.getloli.com/@NeiKa0s496?name=NeiKa0s496&theme=love-and-deepspace&padding=5&offset=0&align=center&scale=1.5&pixelated=1&darkmode=auto> </a></p>
 
 <div align="center">
 
@@ -75,7 +78,4 @@ Just a young man whose hobby is writing code & chasing dreams ✨<br>Loyalty to 
 
 ![My GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=zannopz&theme=crt_avatar=false)
 
-## <div align="center" color="White"> **Visit Counter** <img src="https://i.giphy.com/BFzIOcMuI1dRUURqyY.webp" alt="xiao" height="55" width="55"></div>
-
-<p align="center"> <a href="https://gitlab.com/NeiKos496"><img align="center" width=400 src=https://count.getloli.com/@NeiKa0s496?name=NeiKa0s496&theme=love-and-deepspace&padding=5&offset=0&align=center&scale=1.5&pixelated=1&darkmode=auto> </a></p>
     
