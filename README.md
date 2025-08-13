@@ -73,4 +73,27 @@ Just a young man whose hobby is writing code & chasing dreams ✨<br>Loyalty to 
 
 ![My GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=zannopz&theme=crt_avatar=false)
 
-
+<br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <img class="img" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=huy232&layout=compact&langs_count=8&border_radius=20px&theme=shades-of-purple" width ="50%" height ="200px" align ="left"/>
+</div>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<div>
