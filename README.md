@@ -94,6 +94,6 @@ Just a young man whose hobby is writing code & chasing dreams ✨<br>Loyalty to 
 </div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Zann_Opz&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=zannopz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![](https://pixel-profile.vercel.app/api/github-stats?username=<username>&theme=crt)
+![](https://pixel-profile.vercel.app/api/github-stats?username=<zannopz>&theme=crt)
