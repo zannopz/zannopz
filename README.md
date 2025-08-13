@@ -96,5 +96,6 @@ Just a young man whose hobby is writing code & chasing dreams ✨<br>Loyalty to 
 ---
 [![](https://visitcount.itsvg.in/api?id=zannopz&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[![My GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=zannopz&theme=crt&v=1)
+![My GitHub Stats](https://pixel-profile.vercel.app/api/github-stats?username=zannopz&theme=road_trip&pixelate_avatar=false)
+
 
