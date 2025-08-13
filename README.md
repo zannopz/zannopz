@@ -82,10 +82,10 @@ Just a young man whose hobby is writing code & chasing dreams ✨<br>Loyalty to 
 ![](https://github-readme-stats.vercel.app/api?username=zannopz&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=zannopz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zannopz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-![](https://camo.githubusercontent.com/7fe30781b5d4a4151398e2dca883be101ca4b8ea2c095ca9fb893be24b3c43e0/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d686f616e677472616e30343130267468656d653d616c676f6c69612672616e6b3d2d432c2d42266d617267696e2d773d33266e6f2d6672616d653d74727565)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zannopz&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://camo.githubusercontent.com/7fe30781b5d4a4151398e2dca883be101ca4b8ea2c095ca9fb893be24b3c43e0/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d686f616e677472616e30343130267468656d653d616c676f6c69612672616e6b3d2d432c2d42266d617267696e2d773d33266e6f2d6672616d653d74727565)
 
 <div align="center">
 <a href="https://github.com/piyushsuthar/github-readme-quotes">
