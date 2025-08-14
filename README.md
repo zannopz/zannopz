@@ -91,9 +91,5 @@ Just a young man whose hobby is writing code & chasing dreams ✨<br>Loyalty to 
 ![](https://pixel-profile.vercel.app/api/github-stats?username=zannopz&theme=journey&pixelate_avatar=false)
 
 
-<h3 align="left">Trophy:</h3>
-<p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
-<div align="center">
 
 
