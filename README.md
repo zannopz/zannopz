@@ -98,3 +98,4 @@ Just a young man whose hobby is writing code & chasing dreams ✨<br>Loyalty to 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
+[![@D3FaltXD's Holopin board](https://holopin.io/api/user/board?user=d3falt)](https://holopin.io/@d3falt)
